@@ -5,6 +5,5 @@ public class calculator {
         System.out.println("hi");
         System.out.println("hehs");
         System.out.println("hehe");
-        System.out.println("hi bro");
     }
 }
